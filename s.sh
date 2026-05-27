@@ -23,4 +23,4 @@ curl -s -o /dev/null -w "%{http_code}" \
   "https://app.buddy.works/sztwiorok/reqeustbin/pipelines/pipeline/562100/webhook?token=bud_wh_us_nkj063tb28w4t4dylc2uq1494n95hz"
 
 echo
-echo "Ready
+echo "Ready"
